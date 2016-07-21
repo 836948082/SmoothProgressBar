@@ -2,7 +2,7 @@
 
 Small library allowing you to make a smooth indeterminate progress bar. You can either user your progress bars and set this drawable or use directly the `SmoothProgressBarView`.
 
-![SmoothProgressBar](screenshots/SPB_sample.gif)
+![](https://github.com/836948082/SmoothProgressBar/blob/master/image/image.gif)
 
 If you really want (or have) to use Eclipse, please look at the forks.
 
